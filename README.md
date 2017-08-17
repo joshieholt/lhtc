@@ -1,3 +1,2 @@
-# lhtc
-this is awesome
+this is totally awesome!
 
