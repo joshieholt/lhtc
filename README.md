@@ -1,2 +1,3 @@
 # lhtc
-learning how to collaborate
+this is awesome
+
